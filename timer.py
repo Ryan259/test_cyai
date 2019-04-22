@@ -10,3 +10,6 @@ cost = time.time() - start
 
 print('Cost time is:', cost)
 
+
+print('这是在github上直接更改的结果')
+
